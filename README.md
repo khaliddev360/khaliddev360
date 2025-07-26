@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Khalid Hussan Majoka.Full Stack PHP Laravel Developer 👋
 
 <!--
 **khaliddev360/khaliddev360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
